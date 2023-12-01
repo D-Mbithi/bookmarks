@@ -89,3 +89,14 @@ form .helptext {
     border-radius: 5px;
     margin: 1.5em 0;
 }
+
+/* Error messages styling. */
+.success {
+    background: green;
+    color: white;
+}
+
+.error {
+    background-color: red;
+    color: white;
+}
