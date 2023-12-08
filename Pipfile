@@ -8,6 +8,9 @@ django = "*"
 django-debug-toolbar = "*"
 django-extensions = "*"
 pillow = "*"
+social-auth-app-django = "*"
+pyopenssl = "*"
+werkzeug = "*"
 
 [dev-packages]
 
